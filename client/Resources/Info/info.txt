@@ -1,0 +1,8 @@
+﻿OI Chatroom 客户端
+版本 {0}
+
+此版本可能为 Alpha 测试阶段的最后一个版本
+优化了 Alpha 测试阶段的所有内容
+
+版权所有 © MPG Software
+https://mpgifn.top/
